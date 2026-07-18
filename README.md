@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-Desenvolvedor Full Stack com certificação pelo Codecademy e experiência em projetos em: Automação, estabilização e monitoramento de ecossistemas Linux com Bash, Python e SQLite3; Sistemas de baixo nível (C e FreeRTOS); Aplicações web/desktop com Javascript / Electron.
+Desenvolvedor Full Stack com certificação pelo Codecademy e experiência em projetos incluindo: Automação, estabilização e monitoramento de ecossistemas Linux com Bash, Python e SQLite3; Sistemas de baixo nível (C e FreeRTOS); Aplicações web/desktop com Javascript / Electron.
 
 Projetos front-end com instruções e screenshots nos repositórios abaixo. Outros projetos CLI mencionados ou mantidos fora daqui.
 
