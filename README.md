@@ -15,7 +15,7 @@ Desenvolvedor Full Stack com certificação pelo Codecademy e experiência em pr
 
 Projetos front-end com instruções e screenshots nos repositórios abaixo. Outros projetos CLI mencionados ou mantidos fora daqui.
 
-Atualmente estudando Cloud e React.
+Atualmente estudando Cloud (Capacita iRede) e React.
 
 <div align="center">
   <img width="831" height="207" alt="image" src="https://github.com/user-attachments/assets/36c140ab-e523-473e-9005-76fea985636d" />
